@@ -12,7 +12,7 @@
 # 📊 Dashboard Preview
 
 ```markdown
-![Dashboard Preview](images/PhonePe_Payment_Analytics_Dashboard.png)
+![Dashboard Preview](https://github.com/Hariomdubey01/PhonePe-Payment-Analytics-Dashboard/blob/main/PhonePe%20Analytics%20Dashboard.png)
 ```
 
 ---
@@ -345,15 +345,14 @@ dashboard/
 ├── PhonePe_Payment_Analytics_Dashboard.pdf
 └── PhonePe_Payment_Analytics_Dashboard.png
 
+presentation/
+│
+├── PhonePe_Payment_Analytics_Dashboard_Presentation.pdf
+└── PhonePe_Payment_Analytics_Dashboard_Presentation.pptx
+
 dataset/
 │
 └── PhonePe_Payment_Dataset.xlsx
-
-images/
-│
-├── Dashboard_Preview.png
-└── Dashboard.png
-
 README.md
 ```
 
