@@ -11,9 +11,7 @@
 
 # 📊 Dashboard Preview
 
-```markdown
 ![Dashboard Preview](https://github.com/Hariomdubey01/PhonePe-Payment-Analytics-Dashboard/blob/main/PhonePe%20Analytics%20Dashboard.png)
-```
 
 ---
 
@@ -255,7 +253,7 @@ Before dashboard development, the dataset was prepared using industry-standard d
 
 # 📂 Dataset
 
-**Dataset:** PhonePe Payment Transactions Dataset
+**Dataset:** Synthetic PhonePe-inspired payment transaction dataset
 
 | Attribute | Details |
 |-----------|----------|
