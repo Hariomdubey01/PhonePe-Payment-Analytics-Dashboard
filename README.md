@@ -5,13 +5,11 @@
 ![DAX](https://img.shields.io/badge/DAX-KPI%20Measures-blue)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-green)
 
-> An end-to-end **Payment Analytics Dashboard** developed using **Microsoft Excel, Power BI, Power Query, and DAX** to analyze digital payment transactions, customer behavior, payment performance, service utilization, and business KPIs through interactive dashboards and actionable business insights.
+> A **Payment Analytics Dashboard** developed using **Microsoft Excel, Power BI, Power Query, and DAX** to analyze digital payment transactions, customer behavior, payment performance, service utilization, and business KPIs through interactive dashboards and actionable business insights.
 
 ---
 
 # 📊 Dashboard Preview
-
-> **Replace the image path below with your dashboard screenshot after uploading it to GitHub.**
 
 ```markdown
 ![Dashboard Preview](images/PhonePe_Payment_Analytics_Dashboard.png)
@@ -447,16 +445,3 @@ Aspiring **Data Analyst** passionate about transforming raw data into meaningful
 # ⭐ If You Found This Project Useful
 
 If you found this project helpful or learned something new from it, please consider giving it a **⭐ Star** on GitHub. Your support helps showcase the project to a wider audience and motivates me to build more real-world data analytics solutions.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this project for educational and personal learning purposes.
-
----
-- 💼 Business Value
-
-```
