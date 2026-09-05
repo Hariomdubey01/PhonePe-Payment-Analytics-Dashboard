@@ -434,7 +434,7 @@ Aspiring **Data Analyst** passionate about transforming raw data into meaningful
 | Platform | Link |
 |----------|------|
 | 📧 Email | <hariomkumard8@gmail.com> |
-| 💼 LinkedIn | https://linkedin.com/in/hariom-dubey-81b752285 |
+| 💼 LinkedIn | [linkedin.com/in/itzhariomdubey](https://www.linkedin.com/in/itzhariomdubey) |
 | 💻 GitHub | https://github.com/Hariomdubey01 |
 
 ---
